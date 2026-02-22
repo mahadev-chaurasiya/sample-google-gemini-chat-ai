@@ -1,4 +1,4 @@
-# Gemini AI ChatBot with Streamlit
+# Gemini AI model gemini-2.5-flash with Streamlit
 
 A simple AI chatbot powered by Google's Gemini API that supports text, image, and audio inputs.
 
